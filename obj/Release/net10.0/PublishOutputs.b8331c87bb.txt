@@ -1,0 +1,7 @@
+C:\xampp\htdocs\MyPortfolio01\JanApi\bin\Release\net10.0\publish\JanApi.exe
+C:\xampp\htdocs\MyPortfolio01\JanApi\bin\Release\net10.0\publish\appsettings.Development.json
+C:\xampp\htdocs\MyPortfolio01\JanApi\bin\Release\net10.0\publish\appsettings.json
+C:\xampp\htdocs\MyPortfolio01\JanApi\bin\Release\net10.0\publish\JanApi.dll
+C:\xampp\htdocs\MyPortfolio01\JanApi\bin\Release\net10.0\publish\JanApi.runtimeconfig.json
+C:\xampp\htdocs\MyPortfolio01\JanApi\bin\Release\net10.0\publish\JanApi.pdb
+C:\xampp\htdocs\MyPortfolio01\JanApi\bin\Release\net10.0\publish\JanApi.deps.json

@@ -1,4 +1,19 @@
-﻿<script type="module" src="@Assets["Components/Layout/ReconnectModal.razor.js"]"></script>
+﻿@inject IJSRuntime JS
+
+<dialog id="components-reconnect-modal">
+    ...
+</dialog>
+
+@code {
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JS.InvokeVoidAsync("initialize");
+        }
+    }
+}
+
 
 <dialog id="components-reconnect-modal" data-nosnippet>
     <div class="components-reconnect-container">

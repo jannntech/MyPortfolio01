@@ -1,0 +1,33 @@
+.hero[b-guvqsiuh21] {
+    background: #1e6bd6; /* your blue */
+    padding: 60px 20px;
+}
+
+.hero-content[b-guvqsiuh21] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px; /* space between text and image */
+    flex-wrap: wrap; /* responsive */
+}
+
+/* Text */
+.hero-text h1[b-guvqsiuh21] {
+    color: white;
+    border: 2px solid white;
+    padding: 10px 20px;
+}
+
+.hero-text p[b-guvqsiuh21] {
+    color: white;
+    text-align: center;
+}
+
+/* Image */
+.hero-image img[b-guvqsiuh21] {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid white;
+}
