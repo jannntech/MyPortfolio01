@@ -1,0 +1,7 @@
+C:\xampp\htdocs\MyPortfolio01\JanApi\Tillor\JanApi.exe
+C:\xampp\htdocs\MyPortfolio01\JanApi\Tillor\appsettings.Development.json
+C:\xampp\htdocs\MyPortfolio01\JanApi\Tillor\appsettings.json
+C:\xampp\htdocs\MyPortfolio01\JanApi\Tillor\JanApi.dll
+C:\xampp\htdocs\MyPortfolio01\JanApi\Tillor\JanApi.runtimeconfig.json
+C:\xampp\htdocs\MyPortfolio01\JanApi\Tillor\JanApi.pdb
+C:\xampp\htdocs\MyPortfolio01\JanApi\Tillor\JanApi.deps.json

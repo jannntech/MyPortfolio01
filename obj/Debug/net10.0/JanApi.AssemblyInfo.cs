@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JanApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4175f960ea8d9f913ae7574ae9ee95c2945cf9f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a56468ac4640613dd70c0e0d1e7f5bf56902a737")]
 [assembly: System.Reflection.AssemblyProductAttribute("JanApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JanApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

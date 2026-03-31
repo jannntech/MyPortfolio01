@@ -69,7 +69,6 @@ C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\compressed\c113v3x1ah-{0}
 C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\compressed\21r5u9cjss-{0}-h1s4sie4z3-h1s4sie4z3.gz
 C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\compressed\vvv5d1gido-{0}-63fj8s7r0e-63fj8s7r0e.gz
 C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\compressed\f7goic2yko-{0}-0j3bgjxly4-0j3bgjxly4.gz
-C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\compressed\a4si5zorw2-{0}-0y9sph6jmd-0y9sph6jmd.gz
 C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\compressed\9pb32tl1rj-{0}-b9228eflpl-b9228eflpl.gz
 C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\compressed\cdqy8oilrh-{0}-2tj1sjhksk-2tj1sjhksk.gz
 C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\compressed\moihgynp5a-{0}-ngieqts55l-ngieqts55l.gz
@@ -84,3 +83,4 @@ C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\refint\JanApi.dll
 C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\JanApi.pdb
 C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\JanApi.genruntimeconfig.cache
 C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\ref\JanApi.dll
+C:\xampp\htdocs\MyPortfolio01\JanApi\obj\Debug\net10.0\compressed\a4si5zorw2-{0}-m2a591gx0d-m2a591gx0d.gz
